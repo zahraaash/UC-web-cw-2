@@ -1,0 +1,22 @@
+body{
+
+    background-color: #dee2ff;
+    border-style: dashed; border-color: #8e9aaf;
+}
+h1{
+    color:#8e9aaf;
+    text-align:center;
+    
+}
+
+.card { 
+    width: 500px;
+    background-color: #cbc0d3;
+    text-align:center;
+    border-style: dashed; border-top: #dee2ff; border-color: #8e9aaf;
+
+}
+
+#dish-name {
+    color: white;
+}s
